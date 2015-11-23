@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Registration.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://registro.cristianismobiblico.com/api/v1/</Value>
+    </Setting>
+    <Setting Name="dev" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://192.168.15.20:3000/api/v1/</Value>
+    </Setting>
+    <Setting Name="prod" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://registro.cristianismobiblico.com/api/v1/</Value>
+    </Setting>
+    <Setting Name="api_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">apiv1user</Value>
+    </Setting>
+    <Setting Name="api_pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">changeme</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
