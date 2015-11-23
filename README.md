@@ -15,11 +15,13 @@ and count real food consumption, to avoid over consumption.
 
 * You need to have a running instance of [reg](https://github.com/iax7/reg) Rails project app.
 * In the app's home look for `Registration.exe.config` file to edit values before running.
-	url = https://{yourapp.herokuapp.com}/api/v1/
-	api_user = The username you used in your Rails configuration file
-	api_pass = The password you used in your Rails configuration file
+
+        url = https://{yourapp.herokuapp.com}/api/v1/
+        api_user = The username you used in your Rails configuration file
+        api_pass = The password you used in your Rails configuration file
+
 * If everything is set you can test the connection with the ping option.
-	[Ping](github/ping.png)
+    ![Ping](github/ping.png)
 
 ## To Do
 
