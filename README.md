@@ -1,9 +1,12 @@
 # reg_desktop
-This is a complementary project, this is app uses the [reg](https://github.com/iax7/reg) 
+This is a complementary project, this is app uses the [registro](https://github.com/iax7/registro) 
 project API to work.
 As a desktop app you can connect a barcode reader to read the badges codes that 
 reg project generates. Is intended to be used to mark the person arrival to the event, 
 and count real food consumption, to avoid over consumption.
+
+## :warning: Deprecated
+This tool is no longer needed, it was replaced with an AJAX page inside the original project ([registro](https://github.com/iax7/registro))
 
 ## Instalation
 
